@@ -20,7 +20,7 @@ composer require jakson-fischer/lgpd-mask
 Install via [Composer](https://getcomposer.org/):
 
 ```bash
-composer require youruser/lgpd-mask
+composer require jakson-fischer/lgpd-mask
 ```
 
 ## Métodos Disponíveis
