@@ -12,7 +12,7 @@
     },
     "autoload": {
         "psr-4": {
-            "JaksonFischer\\Lgpd\\": "src/"
+            "JaksonFischer\\LgpdMask\\": "src/"
         }
     },
     "license": "MIT",
