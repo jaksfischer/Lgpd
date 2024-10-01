@@ -1,0 +1,28 @@
+{
+    "name": "jakson-fischer/Lgpd",
+    "description": "Classe para mascarar dados pessoais conforme LGPD",
+    "keywords": [
+        "formater",
+        "lgpd",
+        "php"
+    ],
+    "type": "library",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "JaksonFischer\\Lgpd\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakson Fischer",
+            "email": "jakson.jfischer@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
